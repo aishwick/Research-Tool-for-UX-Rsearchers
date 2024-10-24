@@ -31,6 +31,7 @@ Python libraries like BeautifulSoup or Scrapy will be used for data scraping.
 Data will be scraped from public forums and Reddit using defined parameters.
 The scraped data will be stored in a structured format like CSV or JSON for easy analysis.
 Basic error handling will be implemented to handle issues such as blocked scraping requests.
+
 Task 2: Analyzing the Collected Data
 Vignette:
 After the data has been collected, the user proceeds to analyze it. They open a dashboard where they can filter posts by keyword, sentiment (positive/negative), and specific security issues (e.g., hacking, phishing). The system displays the most frequent concerns in a visual format, such as a bar graph or word cloud. Additionally, the user can choose to download a report containing all the relevant insights and recommendations.
@@ -40,6 +41,7 @@ Technical Details:
 Data will be analyzed using Python libraries like pandas and NumPy to generate insights.
 Data visualization tools like Matplotlib or Plotly will be used to display trends in the data.
 Sentiment analysis will be performed using a pre-trained model (e.g., VADER or TextBlob).
+
 Task 3: Generating Reports for Product Development
 Vignette:
 The user clicks on "Generate Report," selecting the type of report they wish to create—whether it’s a general overview of all security issues or a focused report on a specific concern, such as phishing. The system then compiles the data into a structured PDF or Word document, complete with charts, graphs, and key insights. This report can be shared with the product team to inform the development of the security plug.
