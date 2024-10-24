@@ -17,7 +17,9 @@ GUI/CLI:
 Minimal Interface: The system could initially run on a CLI with basic user input options for date range, forums to scrape, etc.
 Ideal Interface: Web-based GUI using Flask, providing users with a simple dashboard to input parameters, view scraped data, and download reports.
 Remote API Option:
+
 An API could be added to allow third-party services to query the collected data or request reports on gaming security trends. This opens the possibility for integration with other tools used by cybersecurity professionals.
+
 Task Vignettes
 Task 1: Scraping Data from Gaming Communities
 Vignette:
