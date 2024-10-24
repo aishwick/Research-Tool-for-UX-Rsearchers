@@ -65,6 +65,9 @@ The biggest unexpected challenge was figuring out how to scale the scraping proc
 
 
 
+Here is the Bar Chart representing the frequency of security concerns in the gaming community. It shows the number of times issues like phishing, account theft, in-game fraud, DDoS attacks, and weak password practices were mentioned in the dataset.
+
+
 
 
 
