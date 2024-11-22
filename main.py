@@ -60,7 +60,7 @@ nan_count = df['sentiment'].isna().sum()
 print(f"Total posts with NaN sentiment: {nan_count}")
 
 # Histogram of sentiment scores
-hist = px.histogram(df, x='Sentiment Value', title='Distribution of Sentiment Scores for Reddit Posts')
+hist = px.histogram(df, x='sentiment', title='Distribution of Sentiment Scores for Reddit Posts')
 hist.show()
 
 # Additional plot
