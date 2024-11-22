@@ -18,6 +18,7 @@ reddit = praw.Reddit(
 analyzer = SentimentIntensityAnalyzer()
 
 # Define the subreddit, keywords, and minimum upvote threshold
+# this is scraping the data from https://www.reddit.com/r/gaming/
 subreddit = reddit.subreddit("gaming")
 keywords = ["privacy", "phish", "breach", "2fa", "mfa", "ddos", "vpn", "security", "malicious", "doxx", "ip address exposure", "account theft", "account hacking", "in-game privacy", "phishing scams", "data breach", "ransomware", "malware", "virtual currency scam", "social engineering", "account security", "game client vulnerability", "metadata exposure"]
 min_upvotes = 5
