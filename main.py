@@ -4,15 +4,16 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import nltk
 import pandas as pd
 import plotly.express as px
+from keys import client_id, client_secret, user_agent
 
 # Download VADER lexicon
 nltk.download('vader_lexicon')
 
 # reddit instance
 reddit = praw.Reddit(
-    client_id="fwQ0Fwzbye7tXhTKKM7Tpg",
-    client_secret="secret key",
-    user_agent="script:Aish:v1.0 (by /u/Hungry_Gift)"
+    client_id=client_id,
+    client_secret=client_secret,
+    user_agent=user_agent
 )
 # VADER analyzer
 analyzer = SentimentIntensityAnalyzer()
