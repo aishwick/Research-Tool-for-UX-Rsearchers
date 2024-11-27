@@ -43,7 +43,8 @@ for keyword in keywords:
                 "game": post.title,
                 "post_text": post.selftext,
                 "sentiment": sentiment['compound'],
-                "keyword": keyword
+                "keyword": keyword,
+                "created_utc": post.created_utc
             }
             posts_data.append(post_dict)
 
