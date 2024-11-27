@@ -52,4 +52,5 @@ Caveats
 •	Access to Data: The scraping process relies on publicly available data from gaming forums and Reddit. Make sure that the forums or threads are accessible and open to scraping.
  
 By using this tool, cybersecurity professionals, developers, and researchers can gain valuable insights into the security concerns affecting gamers. The analysis can guide the development of targeted solutions, such as security plugs, that address the most prevalent threats and improve the overall safety of online gaming communities.
+
 ![image](https://github.com/user-attachments/assets/632d55c7-c8de-475d-b8b5-ba3fe68cb22c)
