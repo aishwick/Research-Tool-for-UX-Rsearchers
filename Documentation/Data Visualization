@@ -1,0 +1,20 @@
+1. Time Series Line Graph
+Purpose: To show trends in security concerns over time.
+Details:
+The x-axis represents time , while the y-axis shows the frequency of mentions for each security concern.
+Different lines represent different security issues (e.g., one line for phishing, another for account hacking).
+This visualization helps identify spikes or patterns in concerns over specific periods (e.g., seasonal trends, reactions to major incidents).
+
+2. Word Cloud
+Purpose: To visualize the most frequently mentioned security-related keywords in a dataset.
+Details:
+Larger words represent keywords that appear more frequently in the discussions.
+Useful for providing a quick visual summary of the most common concerns (e.g., "phishing," "hacking").
+Users can focus on the most dominant issues.
+
+3. Sentiment-Heat Matrix
+Purpose: To show the sentiment distribution (positive, neutral, negative) for each security concern.
+Details:
+The matrix where rows represent security concerns and columns represent sentiment categories.
+Each cell's intensity indicates the number of mentions within that sentiment category for a given concern.
+Offers insights into how gamers perceive specific security issues (e.g., phishing may have overwhelmingly negative sentiment).
