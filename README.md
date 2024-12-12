@@ -147,6 +147,7 @@ Screenshots
 
 Bar chart showing sentiment
 ![Model](https://github.com/aishwick/Research-Tool-for-UX-Rsearchers/blob/main/image%20(1).png)
+
 word cloud showing common security terms
 ![Model](https://github.com/aishwick/Research-Tool-for-UX-Rsearchers/blob/main/word%20cloud%20showing%20common%20security%20terms)
 
