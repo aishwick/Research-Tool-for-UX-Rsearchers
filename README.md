@@ -142,3 +142,9 @@ Performance on Large Datasets:
 Very large data sets may slow down analysis. Consider sampling or pre-filtering your data.
 Bugs & Incomplete Features:
 This tool may have known bugs or unfinished functionalities. For deeper technical details or known issues, please refer to the developer’s documentation.
+
+Screenshots
+
+Bar chart showing sentiment
+![Model](https://github.com/aishwick/Research-Tool-for-UX-Rsearchers/blob/main/image%20(1).png)
+
