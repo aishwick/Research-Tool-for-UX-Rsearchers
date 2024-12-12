@@ -75,6 +75,9 @@ hist.show()
 current_time = datetime.datetime.now()
 five_years_ago = current_time - datetime.timedelta(days=5 * 365)
 
+# Convert 'created_utc' from Unix timestamp to datetime
+df['created_utc'] = pd.to_datetime(df['created_utc'], unit='s')
+
 # Ensure the 'created_utc' column is datetime
 df_last_5_years = df[df['created_utc'] >= five_years_ago]
 
