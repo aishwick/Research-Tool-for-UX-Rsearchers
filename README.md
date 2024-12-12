@@ -145,8 +145,8 @@ This tool may have known bugs or unfinished functionalities. For deeper technica
 
 Screenshots
 
-Bar chart showing sentiment
-![Model](https://github.com/aishwick/Research-Tool-for-UX-Rsearchers/blob/main/image%20(1).png)
+histogram of sentiment scores
+![Model](https://github.com/aishwick/Research-Tool-for-UX-Rsearchers/blob/main/histogram%20of%20sentiment%20scores)
 
 word cloud showing common security terms
 ![Model](https://github.com/aishwick/Research-Tool-for-UX-Rsearchers/blob/main/word%20cloud%20showing%20common%20security%20terms)
